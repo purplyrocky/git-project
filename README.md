@@ -15,3 +15,5 @@ Let's use vim to create our MARKDOWN.md file!
 5. list
 
 ##a sub heading
+
+This is a [link to google](http://www.google.com)
