@@ -1,6 +1,6 @@
 #git-project workflow
 
-Let's use vim to create our MARKDOWN.md file!
+Let's use vim to create our MARKDOWN.md file and stuff!
 
 * this
 * is
